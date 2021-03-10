@@ -1,0 +1,22 @@
+{
+  "name": "reverse-proxy-nodejs",
+  "version": "1.0.0",
+  "description": "Creating a reverse server proxy server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavyakaria/reverse-proxy-nodejs.git"
+  },
+  "author": "Bhavya Karia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavyakaria/reverse-proxy-nodejs/issues"
+  },
+  "homepage": "https://github.com/bhavyakaria/reverse-proxy-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
